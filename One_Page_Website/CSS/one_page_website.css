@@ -2,7 +2,7 @@ html {
     font-family: snas-serif;
     font-size: 62.5%;
 }
-input[type=text], rsvp {
+input[type=text], select {
     width: 15%;
     padding: 12px 20px;
     margin: 8px 0;
