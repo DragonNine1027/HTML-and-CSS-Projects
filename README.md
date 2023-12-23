@@ -1,1 +1,7 @@
-# HTML-and-CSS-Projects
+README.md
+
+JavaScript Projects
+
+Projects:
+Portfolio
+
